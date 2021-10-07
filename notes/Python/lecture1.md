@@ -211,7 +211,7 @@ grade = ok.grade('exercise-1_2')
         Passed: 3
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 ## Formatted printing style
@@ -241,7 +241,7 @@ is located at the height y=%.2f m.
     At t=0.600000 s, a ball with
     initial velocity v0=5.000E+00 m/s
     is located at the height y=1.23 m.
-    
+
 
 
 Notice in this example we used `%f`, `%.3E`, and `%.2f` to define slots, into which we inserted the values of `t`, `v0`, and `y` respectively. You can find more details about the format specification mini-language in the Python [documentation](https://docs.python.org/3/library/string.html#format-specification-mini-language).
@@ -285,7 +285,7 @@ from math import pi
 
 density = 1.2       # units of kg/m**3
 ball_radius = 0.11  # units of m
-A = pi*(ball_radius**2)  # Cross sectional area of a sphere
+A = pi*(ball_radius**2)  # Cross sectional area of a spherew
 C_D = 0.2           # Drag coefficient
 
 v = 50.8            # m/s (fastest recorded speed of football)
@@ -324,7 +324,7 @@ grade = ok.grade('exercise-1_3')
         Passed: 1
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 ## How are arithmetic expressions evaluated?
@@ -390,7 +390,7 @@ grade = ok.grade('exercise-1_4')
         Passed: 1
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 ## Standard mathematical functions
@@ -487,7 +487,7 @@ grade = ok.grade('exercise-1_5')
         Passed: 1
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 ## Exercise 1.6: Find and fix errors in the coding of a formula
@@ -540,7 +540,7 @@ grade = ok.grade('exercise-1_6')
         Passed: 3
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 ## Functions
@@ -585,7 +585,7 @@ Let us break this example down:
     * The first thing to notice is that the body of the function is indented one level. All code that is indented with respect to `def`-line belongs to a function.
     * Best practice is to include a [docstring](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_numpy.html) to explain to others (or remind our future self) how to use the function.
     * The function output is passed back via the `return` statement.
- 
+
 Notice that this just defines the function. Nothing is executed until we actually *call* the function:
 
 
@@ -775,7 +775,7 @@ ok.grade('exercise-1_7')
         Passed: 8
         Failed: 1
     [ooooooook..] 88.9% passed
-    
+
 
 
 
@@ -845,7 +845,7 @@ ok.grade('exercise-1_8')
         Passed: 1
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 
@@ -925,7 +925,7 @@ ok.grade('exercise-1_9')
         Passed: 1
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 
@@ -1203,7 +1203,7 @@ ok.grade('exercise-1_11')
         Passed: 1
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 
@@ -1281,7 +1281,7 @@ ok.grade('exercise-1_12')
         Passed: 1
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 
@@ -1507,7 +1507,7 @@ ok.grade('exercise-1_13')
         Passed: 2
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 
@@ -1769,7 +1769,7 @@ ok.grade('exercise-1_14')
         Passed: 2
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 
@@ -1832,7 +1832,7 @@ ok.grade('exercise-1_15')
         Passed: 3
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 
@@ -1917,7 +1917,7 @@ ok.grade('exercise-1_16')
         Passed: 2
         Failed: 1
     [ooooook....] 66.7% passed
-    
+
 
 
 
@@ -1974,7 +1974,7 @@ ok.grade('exercise-1_17')
         Passed: 2
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 
@@ -2035,7 +2035,7 @@ ok.grade('exercise-1_18')
         Passed: 4
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 
@@ -2111,7 +2111,7 @@ ok.grade('exercise-1_19')
         Passed: 1
         Failed: 0
     [ooooooooook] 100.0% passed
-    
+
 
 
 
@@ -2298,7 +2298,7 @@ ok.score()
     
     Score:
         Total: 15.0
-    
+
 
 
 
