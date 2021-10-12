@@ -27,7 +27,7 @@ Share wonderful ideas or useful learning materials.
 3. Add links in the **Reading List** section. Or add codes, trouble shooting (debugging methods) in the **Coding tips & Trouble shooting** section.
 4. Create your own brach and make pull request.
 5. If you want to add new files or modify the project structure, make a pull request.
-6. Share your ideas in the **Discussion**, that would helps!   
+6. Comment in the **Discussion**, that helps too!   
 [**How to write a Markdown file?**](https://www.markdownguide.org/basic-syntax/)
 
 - **Notice** :warning:
@@ -36,3 +36,5 @@ Share wonderful ideas or useful learning materials.
 3. If you find a issue in this repository, open a blanket issue in the **Issue** section (in corresponding milestone) and breifly describe this issue.
 4. **DO NOT** upload any files or links that relevant to answers for the assignments and exams.
 5. **DO NOT** modify this README.md file.
+
+- **Qualification for Collaborators**: Contribute to the repository at least **twice** a month.
