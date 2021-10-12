@@ -26,7 +26,8 @@ Share wonderful ideas or useful learning materials.
 2. Find the **notes.md** file.
 3. Add links in the **Reading List** section. Or add codes, trouble shooting (debugging methods) in the **Coding tips & Trouble shooting** section.
 4. Create your own brach and make pull request.
-5. If you want to add new files or modify the project structure, make a pull request.   
+5. If you want to add new files or modify the project structure, make a pull request.
+6. Share your ideas in the **Discussion**, that would helps!   
 [**How to write a Markdown file?**](https://www.markdownguide.org/basic-syntax/)
 
 - **Notice** :warning:
