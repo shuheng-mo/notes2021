@@ -8,7 +8,9 @@
   - [ ] Computational Mathematics
   - [ ] [Modern Programming Methods](https://github.com/acse-90469b93/notes2021#modern-programming-methods)
   - [ ] Patterns for Parallel Programming
-  - [ ] Applied Computational/Data Science Project
+  - [ ] Applied Computational/Data Science Project    
+
+**Read the [contributon rule](https://github.com/acse-90469b93/notes2021#contribution) carefully before you contribute.**
 
 ## Modern Programming Methods
 **Tech Stack :**   
