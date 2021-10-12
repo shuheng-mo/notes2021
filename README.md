@@ -33,6 +33,6 @@ Share wonderful ideas or useful learning materials.
 - **Notice** :warning:
 1. **'Feature-branching'** rule applied in this repository. Create a new branch called **'<YOUR_GITHUB_USERNAME> - dev'** and make pull requests. (i.e. acse-sm321-dev)
 2. If you have any brilliant ideas about this project, tell me in the **Issue** section using the **Feature request** template provided.
-3. If you find a issue in this repository, open a blanket issue in the **Issue** section and breifly describe this issue.
+3. If you find a issue in this repository, open a blanket issue in the **Issue** section (in corresponding milestone) and breifly describe this issue.
 4. **DO NOT** upload any files or links that relevant to answers for the assignments and exams.
 5. **DO NOT** modify this README.md file.
