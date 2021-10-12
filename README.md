@@ -6,7 +6,7 @@
   - [ ] Inversion and Optimization
   - [ ] Machine Learning
   - [ ] Computational Mathematics
-  - [ ] Modern Programming Methods
+  - [ ] [Modern Programming Methods](https://github.com/acse-90469b93/notes2021#modern-programming-methods)
   - [ ] Patterns for Parallel Programming
   - [ ] Applied Computational/Data Science Project
 
