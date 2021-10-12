@@ -11,10 +11,10 @@
   - [ ] Applied Computational/Data Science Project
 
 ## Modern Programming Methods
+**Tech Stack :**   
+- Python, Anaconda, Azure, Docker    
 
-- **Lecture 1**: Scipy, Sympy, etc.
-- **Lecture 2**: Python Development
-
+[**Module Folder**](https://github.com/acse-90469b93/notes2021/tree/main/notes/Modern%20Programming%20Methods)
 
 ## Contribution
 Share wonderful ideas or useful learning materials.
@@ -24,7 +24,8 @@ Share wonderful ideas or useful learning materials.
 2. Find the **notes.md** file.
 3. Add links in the **Reading List** section. Or add codes, trouble shooting (debugging methods) in the **Coding tips & Trouble shooting** section.
 4. Create your own brach and make pull request.
-5. If you want to add new files or modify the project structure, make a pull request. 
+5. If you want to add new files or modify the project structure, make a pull request.   
+[**How to write a Markdown file?**](https://www.markdownguide.org/basic-syntax/)
 
 - **Notice** :warning:
 1. **'Feature-branching'** rule applied in this repository. Create a new branch called **'<YOUR_GITHUB_USERNAME> - dev'** and make pull requests. (i.e. acse-90469b93-dev)
