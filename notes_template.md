@@ -1,8 +1,6 @@
 ## **Reading List**
 
-  - [Numpy Documentation](https://www.numpy.org.cn/reference/)
-  - [Plot Examples](https://matplotlib.org/stable/)
-  - [Scipy Tutorial](http://scipy-lectures.org/)
+  - [A EMPTY LINK](https://www.)
 
 ## Coding tips & Trouble shooting
 
