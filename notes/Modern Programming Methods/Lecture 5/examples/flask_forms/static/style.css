@@ -1,0 +1,36 @@
+div.score {
+    text-align: center;
+    font-size: x-large;
+}
+
+div.info {
+    text-align: center;
+}
+
+div.game {
+    position: fixed;
+    left: 0;
+    bottom: 30%;
+    width: 100%;
+    text-align: center;
+}
+
+div.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+button, input {
+  padding: 6px;
+  margin-top: 0px;
+  margin-right: 4px;
+  background: #eee;
+  font-size: 17px;
+  width: 20%;
+  line-height: 500%;
+  box-sizing: content-box;
+  cursor: pointer;
+}

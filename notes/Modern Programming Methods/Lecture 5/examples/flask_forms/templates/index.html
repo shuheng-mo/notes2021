@@ -1,0 +1,35 @@
+{% extends "base.html" %} {% block content %}
+
+<div class="main">
+
+    <!-- This page plays <a href=https://en.wikipedia.org/wiki/Rock_paper_scissors> rock, paper, scissors</a>
+ -->
+    This page get your name and your favourite animal.
+    <div class="score">
+        <!-- <p>Score:</p> You : {{ game.score[0] }} - {{ game.score[1] }} : Me -->
+        <p>Your name: {{info[0]}}</p>
+        <p>Your favourite animal:</p>
+        <img src="{{game.ANIMAL_LIST[info[1]]}}" alt="" width="200" height="160">
+    </div>
+
+
+    {% if info %}
+    <div class=info>
+        {% for note in info %}
+        <!-- <p>{{ note }}</p> -->
+        {% endfor %}
+    </div>
+    {% endif %}
+
+    <div class="game">
+        <form action="/" method="POST">
+            {% for field in form %} {{ field() }} {% endfor %}
+        </form>
+    </div>
+</div>
+
+<div class="footer">
+    <p>This page uses essential session cookies to run the game. No persistent cookies are stored or personal information tracked.</p>
+</div>
+
+{% endblock %}
