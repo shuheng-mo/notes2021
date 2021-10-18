@@ -7,7 +7,7 @@
 ## Coding tips & Trouble shooting
 
 ```python
-# None
+# For Flask framework, try to compare it with the similar Django framework
 ```
 
 
