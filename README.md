@@ -47,4 +47,4 @@ Share wonderful ideas or useful learning materials.
 4. **DO NOT** upload any files or links that relevant to answers for the assignments and exams.
 5. **DO NOT** modify this README.md file.
 
-- **Qualification for Collaborators**: Contribute to the repository at least **twice** a month.
+- **Qualification for Collaborators**: Contribute to the repository at least **twice** a week.
