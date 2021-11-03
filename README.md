@@ -5,18 +5,28 @@
   - [ ] Applying Computational/Data Science
   - [ ] Inversion and Optimization
   - [ ] Machine Learning
-  - [ ] Computational Mathematics
-  - [ ] [Modern Programming Methods](https://github.com/acse-90469b93/notes2021#modern-programming-methods)
+  - [ ] [Computational Mathematics](https://github.com/acse-90469b93/notes2021#computational-mathematics)
+  - [x] [Modern Programming Methods](https://github.com/acse-90469b93/notes2021#modern-programming-methods)
   - [ ] Patterns for Parallel Programming
   - [ ] Applied Computational/Data Science Project    
 
 **Read the [contributon rule](https://github.com/acse-90469b93/notes2021#contribution) carefully before you contribute.**
+
+
 
 ## Modern Programming Methods
 **Tech Stack :**   
 - Python, Anaconda, Azure, Docker    
 
 [**Module Folder**](https://github.com/acse-90469b93/notes2021/tree/main/notes/Modern%20Programming%20Methods)
+
+
+
+## Computational Mathematics
+
+[**Module Folder**](https://github.com/acse-90469b93/notes2021/tree/main/notes/Modern%20Programming%20Methods)
+
+
 
 ## Contribution
 Share wonderful ideas or useful learning materials.

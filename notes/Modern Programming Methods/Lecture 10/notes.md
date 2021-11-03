@@ -148,8 +148,8 @@ ipdb> print(l_var)
  [2395  581  271 ...  426  445 4390]
  [2300  743  145 ...  484  313 4207]
  [2328 2691 3200 ... 3592 4157 4377]]
-ipdb> print(l_var.min())
--27
+ipdb> print(abs(l_var).min())
+0
 ipdb> 
 
 # Example 4: set errors to exceptions
