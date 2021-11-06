@@ -75,3 +75,9 @@ def Lagrange_interp_poly(xi, yi, x):
 
 
 
+```bash
+%%cmd
+mkdir -p saskatchewan
+
+```
+
