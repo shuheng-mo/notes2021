@@ -3,15 +3,15 @@
   - [Standard Score](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.zscore.html)
   - [Covariance](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.cov.html)
   - [Correlation coefficients]()
-  - [Probability Distribution]()
   - [Probability Mass Function](https://www.probabilitycourse.com/chapter3/3_1_3_pmf.php)
   - [Probability Density Function](https://online.stat.psu.edu/stat414/lesson/14/14.1)
-  - [Gaussian Probability Density Function]()
+  - [Gaussian Probability Density Function (Normal distribution)]()
   - [Monte Carlo Methods]()
   - [Central Limit Theorem](https://www.probabilitycourse.com/chapter7/7_1_2_central_limit_theorem.php)
   - [Bayes](https://machinelearningmastery.com/bayes-theorem-for-machine-learning/)
   - [Bayes with Pure Python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
   - [Seaborn gallery](https://seaborn.pydata.org/examples/index.html)
+  - [A short tutorial on Probability](https://www.probabilitycourse.com/)
 
 ## Coding tips & Trouble shooting
 
