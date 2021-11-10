@@ -1,12 +1,13 @@
 # Notes for MSc ACSE 2021
-- Relevant Repositories: [ese-msc-2021](https://github.com/ese-msc-2021)
+- Relevant Repositories: [ese-msc-2021- repositories](https://github.com/ese-msc-2021)
 - Courses:
   - [ ] Advanced Programming
   - [ ] Applying Computational/Data Science
   - [ ] Inversion and Optimization
   - [ ] Machine Learning
-  - [ ] [Computational Mathematics](https://github.com/acse-90469b93/notes2021#computational-mathematics)
+  - [x] [Computational Mathematics](https://github.com/acse-90469b93/notes2021#computational-mathematics)
   - [x] [Modern Programming Methods](https://github.com/acse-90469b93/notes2021#modern-programming-methods)
+  - [ ] Modelling and Numerical Methods
   - [ ] Patterns for Parallel Programming
   - [ ] Applied Computational/Data Science Project    
 
@@ -24,7 +25,13 @@
 
 ## Computational Mathematics
 
-[**Module Folder**](https://github.com/acse-90469b93/notes2021/tree/main/notes/Modern%20Programming%20Methods)
+[**Module Folder**](https://github.com/acse-sm321/notes2021/tree/main/notes/Computational%20Mathematics)
+
+
+
+## Modelling and Numerical Methods
+
+[**Module Folder**](https://github.com/acse-sm321/notes2021/tree/main/notes/Computational%20Mathematics) 
 
 
 
