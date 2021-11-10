@@ -16,6 +16,7 @@
 ## Coding tips & Trouble shooting
 
 ```python
+''' Pure Python Naive Bayes'''
 # Example of calculating class probabilities
 from math import sqrt
 from math import pi
